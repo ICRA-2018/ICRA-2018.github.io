@@ -13,5 +13,6 @@ A Robust and Versatile Monocular Visual-Inertial State Estimator
 ## Human-Joint-Constraints-Training
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/Human-Joint-Constraints-Training)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/human-joint-constraints-training)
+
 Training procedure for paper ["Data-Driven Approach to Simulating Realistic Human Joint Constraints
 "](https://arxiv.org/abs/1709.08685).
