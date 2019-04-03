@@ -2,7 +2,7 @@
 
 ## Unofficial repository index of source code and running images
 
-Links to source code and Docker images for papers published at ICRA 2018: browse through the source code of a paper in the GitHub site, or execute a ready-to-run Docker image in the DockerHub site.
+Links to source code and Docker images for papers published at ICRA 2018: browse through the source code of a paper in the GitHub site, or download a ready-to-run Docker image from the DockerHub site.
 
 ## VINS-mono
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/VINS-Mono/tree/develop)
