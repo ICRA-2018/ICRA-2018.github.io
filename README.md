@@ -2,7 +2,7 @@
 
 ## Unofficial repository of source code
 
-Repository of source code for papers published at ICRA 2018. Browse through the source code of a paper in the GitHub site, or execute a ready-to-run Docker image in the DockerHub site.
+Links to source code and Docker images for papers published at ICRA 2018: browse through the source code of a paper in the GitHub site, or execute a ready-to-run Docker image in the DockerHub site.
 
 # VINS-mono
 A Robust and Versatile Monocular Visual-Inertial State Estimator
