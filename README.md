@@ -1,6 +1,6 @@
 <img src="logo.png">
 
-## Unofficial repository of source code and running images
+## Unofficial repository index of source code and running images
 
 Links to source code and Docker images for papers published at ICRA 2018: browse through the source code of a paper in the GitHub site, or execute a ready-to-run Docker image in the DockerHub site.
 
