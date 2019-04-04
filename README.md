@@ -43,3 +43,11 @@ A Robust and Versatile Monocular Visual-Inertial State Estimator.
 T. Qin, P. Li and S. Shen, "Relocalization, Global Optimization and Map Merging for Monocular Visual-Inertial SLAM,"<br/>
 [doi: 10.1109/ICRA.2018.8460780](https://doi.org/10.1109/ICRA.2018.8460780)
 
+## VisualBackProp
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/VisualBackProp/tree/develop)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/visualbackprop)
+
+Visualization method for convolutional neural networks.
+
+M. Bojarski et al., "VisualBackProp: Efficient Visualization of CNNs for Autonomous Driving," <br/>
+[doi: 10.1109/ICRA.2018.8461053](https://doi.org/10.1109/ICRA.2018.8461053)
