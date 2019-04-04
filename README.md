@@ -13,7 +13,7 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 Fast Image-Based Geometric Change Detection Given a 3D Model.
 
-E. Palazzolo and C. Stachniss, "Fast Image-Based Geometric Change Detection Given a 3D Model,"
+E. Palazzolo and C. Stachniss, "Fast Image-Based Geometric Change Detection Given a 3D Model,"<br/>
 [doi: 10.1109/ICRA.2018.8461019](https://doi.org/10.1109/ICRA.2018.8461019)
 
 ## Human-Joint-Constraints-Training
@@ -22,8 +22,17 @@ E. Palazzolo and C. Stachniss, "Fast Image-Based Geometric Change Detection Give
 
 Training procedure for the paper.
 
-Y. Jiang and C. K. Liu, "Data-Driven Approach to Simulating Realistic Human Joint Constraints," 
+Y. Jiang and C. K. Liu, "Data-Driven Approach to Simulating Realistic Human Joint Constraints,"<br/>
 [doi: 10.1109/ICRA.2018.8461010](https://doi.org/10.1109/ICRA.2018.8461010)
+
+## LearnedSamplingDistributions
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/LearnedSamplingDistributions/tree/develop)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/learnedsamplingdistributions)
+
+Learning Sampling Distributions for Robot Motion Planning.
+
+B. Ichter, J. Harrison and M. Pavone, "Learning Sampling Distributions for Robot Motion Planning,"<br/>
+[doi: 10.1109/ICRA.2018.8460730](https://doi.org/10.1109/ICRA.2018.8460730)
 
 ## VINS-mono
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/VINS-Mono/tree/develop)
@@ -31,6 +40,6 @@ Y. Jiang and C. K. Liu, "Data-Driven Approach to Simulating Realistic Human Join
 
 A Robust and Versatile Monocular Visual-Inertial State Estimator.
 
-T. Qin, P. Li and S. Shen, "Relocalization, Global Optimization and Map Merging for Monocular Visual-Inertial SLAM,"
+T. Qin, P. Li and S. Shen, "Relocalization, Global Optimization and Map Merging for Monocular Visual-Inertial SLAM,"<br/>
 [doi: 10.1109/ICRA.2018.8460780](https://doi.org/10.1109/ICRA.2018.8460780)
 
