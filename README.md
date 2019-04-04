@@ -13,7 +13,8 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 Fast Image-Based Geometric Change Detection Given a 3D Model.
 
-E. Palazzolo and C. Stachniss, "Fast Image-Based Geometric Change Detection Given a 3D Model,"<br/>
+E. Palazzolo and C. Stachniss, <br/>
+"Fast Image-Based Geometric Change Detection Given a 3D Model,"<br/>
 [doi: 10.1109/ICRA.2018.8461019](https://doi.org/10.1109/ICRA.2018.8461019)
 
 ## Human-Joint-Constraints-Training
@@ -22,7 +23,8 @@ E. Palazzolo and C. Stachniss, "Fast Image-Based Geometric Change Detection Give
 
 Training procedure for the paper.
 
-Y. Jiang and C. K. Liu, "Data-Driven Approach to Simulating Realistic Human Joint Constraints,"<br/>
+Y. Jiang and C. K. Liu, <br/>
+"Data-Driven Approach to Simulating Realistic Human Joint Constraints,"<br/>
 [doi: 10.1109/ICRA.2018.8461010](https://doi.org/10.1109/ICRA.2018.8461010)
 
 ## LearnedSamplingDistributions
@@ -31,7 +33,8 @@ Y. Jiang and C. K. Liu, "Data-Driven Approach to Simulating Realistic Human Join
 
 Learning Sampling Distributions for Robot Motion Planning.
 
-B. Ichter, J. Harrison and M. Pavone, "Learning Sampling Distributions for Robot Motion Planning,"<br/>
+B. Ichter, J. Harrison and M. Pavone, <br/>
+"Learning Sampling Distributions for Robot Motion Planning,"<br/>
 [doi: 10.1109/ICRA.2018.8460730](https://doi.org/10.1109/ICRA.2018.8460730)
 
 ## LOGOS
@@ -40,7 +43,8 @@ B. Ichter, J. Harrison and M. Pavone, "Learning Sampling Distributions for Robot
 
 Spatial verification using Local Geometric Support.
 
-S. Lowry and H. Andreasson, "LOGOS: Local Geometric Support for High-Outlier Spatial Verification," <br/>
+S. Lowry and H. Andreasson, <br/>
+"LOGOS: Local Geometric Support for High-Outlier Spatial Verification," <br/>
 [doi: 10.1109/ICRA.2018.8460988](https://doi.org/10.1109/ICRA.2018.8460988)
 
 ## VINS-mono
@@ -49,7 +53,8 @@ S. Lowry and H. Andreasson, "LOGOS: Local Geometric Support for High-Outlier Spa
 
 A Robust and Versatile Monocular Visual-Inertial State Estimator.
 
-T. Qin, P. Li and S. Shen, "Relocalization, Global Optimization and Map Merging for Monocular Visual-Inertial SLAM,"<br/>
+T. Qin, P. Li and S. Shen, <br/>
+"Relocalization, Global Optimization and Map Merging for Monocular Visual-Inertial SLAM,"<br/>
 [doi: 10.1109/ICRA.2018.8460780](https://doi.org/10.1109/ICRA.2018.8460780)
 
 ## VisualBackProp
@@ -58,5 +63,6 @@ T. Qin, P. Li and S. Shen, "Relocalization, Global Optimization and Map Merging 
 
 Visualization method for convolutional neural networks.
 
-M. Bojarski et al., "VisualBackProp: Efficient Visualization of CNNs for Autonomous Driving," <br/>
+M. Bojarski et al., <br/>
+"VisualBackProp: Efficient Visualization of CNNs for Autonomous Driving," <br/>
 [doi: 10.1109/ICRA.2018.8461053](https://doi.org/10.1109/ICRA.2018.8461053)
