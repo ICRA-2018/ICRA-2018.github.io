@@ -6,6 +6,16 @@ Links to source code and Docker images for papers published at [ICRA 2018](https
 
 Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8449910).
 
+## fast_change_detection
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/fast_change_detection/tree/develop)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/fast-change-detection)
+
+Fast Image-Based Geometric Change Detection Given a 3D Model.
+
+E. Palazzolo and C. Stachniss, "Fast Image-Based Geometric Change Detection Given a 3D Model,"
+[doi: 10.1109/ICRA.2018.8461019](https://doi.org/10.1109/ICRA.2018.8461019)
+
 ## Human-Joint-Constraints-Training
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/Human-Joint-Constraints-Training)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/human-joint-constraints-training)
