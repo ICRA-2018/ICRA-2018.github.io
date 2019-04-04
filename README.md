@@ -28,6 +28,17 @@ J. Panerati, L. Gianoli, C. Pinciroli, A. Shabah, G. Nicolescu and G. Beltrame, 
 "From Swarms to Stars: Task Coverage in Robot Swarms with Connectivity Constraints," <br/>
 [doi: 10.1109/ICRA.2018.8463193](https://doi.org/10.1109/ICRA.2018.8463193)
 
+## blackdrops
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/blackdrops)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/blackdrops)
+
+Black-Box Data-efficient Policy Search for Robotics.
+
+K. Chatzilygeroudis and J. Mouret, <br/>
+"Using Parameterized Black-Box Priors to Scale Up Model-Based Policy Search for Robotics," <br/>
+[doi: 10.1109/ICRA.2018.8461083](https://doi.org/10.1109/ICRA.2018.8461083)
+
 ## fast_change_detection
 
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/fast_change_detection/tree/develop)
