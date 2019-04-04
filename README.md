@@ -17,6 +17,17 @@ S. Ghosh, F. Berkenkamp, G. Ranade, S. Qadeer and A. Kapoor, <br/>
 "Verifying Controllers Against Adversarial Examples with Bayesian Optimization," <br/>
 [doi: 10.1109/ICRA.2018.8460635](https://doi.org/10.1109/ICRA.2018.8460635)
 
+## ar-argos-buzz-simulations
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/ar-argos-buzz-simulations)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/ar-argos-buzz-simulations)
+
+Buzz source code and ARGoS simulations.
+
+J. Panerati, L. Gianoli, C. Pinciroli, A. Shabah, G. Nicolescu and G. Beltrame, <br/>
+"From Swarms to Stars: Task Coverage in Robot Swarms with Connectivity Constraints," <br/>
+[doi: 10.1109/ICRA.2018.8463193](https://doi.org/10.1109/ICRA.2018.8463193)
+
 ## fast_change_detection
 
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/fast_change_detection/tree/develop)
