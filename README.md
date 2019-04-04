@@ -6,6 +6,17 @@ Links to source code and Docker images for papers published at [ICRA 2018](https
 
 Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8449910).
 
+## adversarial_testing
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/adversarial_testing)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/adversarial-testing)
+
+This is a python package for testing controls for black box system in simulators.
+
+S. Ghosh, F. Berkenkamp, G. Ranade, S. Qadeer and A. Kapoor, <br/>
+"Verifying Controllers Against Adversarial Examples with Bayesian Optimization," <br/>
+[doi: 10.1109/ICRA.2018.8460635](https://doi.org/10.1109/ICRA.2018.8460635)
+
 ## fast_change_detection
 
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/fast_change_detection/tree/develop)
