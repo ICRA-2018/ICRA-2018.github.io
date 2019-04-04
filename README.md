@@ -34,6 +34,15 @@ Learning Sampling Distributions for Robot Motion Planning.
 B. Ichter, J. Harrison and M. Pavone, "Learning Sampling Distributions for Robot Motion Planning,"<br/>
 [doi: 10.1109/ICRA.2018.8460730](https://doi.org/10.1109/ICRA.2018.8460730)
 
+## LOGOS
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/LOGOS)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/logos)
+
+Spatial verification using Local Geometric Support.
+
+S. Lowry and H. Andreasson, "LOGOS: Local Geometric Support for High-Outlier Spatial Verification," <br/>
+[doi: 10.1109/ICRA.2018.8460988](https://doi.org/10.1109/ICRA.2018.8460988)
+
 ## VINS-mono
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/VINS-Mono/tree/develop)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/vins-mono)
