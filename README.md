@@ -58,6 +58,16 @@ S. Lowry and H. Andreasson, <br/>
 "LOGOS: Local Geometric Support for High-Outlier Spatial Verification," <br/>
 [doi: 10.1109/ICRA.2018.8460988](https://doi.org/10.1109/ICRA.2018.8460988)
 
+## Text2Action
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/Text2Action)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/text2action)
+
+Generative Adversarial Synthesis from Language to Action.
+
+H. Ahn, T. Ha, Y. Choi, H. Yoo and S. Oh, <br/>
+"Text2Action: Generative Adversarial Synthesis from Language to Action," <br/>
+[doi: 10.1109/ICRA.2018.8460608](https://doi.org/10.1109/ICRA.2018.8460608)
+
 ## VINS-mono
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/VINS-Mono/tree/develop)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/vins-mono)
