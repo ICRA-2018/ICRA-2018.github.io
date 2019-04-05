@@ -33,6 +33,7 @@ J. Panerati, L. Gianoli, C. Pinciroli, A. Shabah, G. Nicolescu and G. Beltrame, 
 
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/blackdrops)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/blackdrops)
+[![binder](logo_binder.png)](https://mybinder.org/v2/gh/ICRA-2018/blackdrops/master?urlpath=lab%2Ftree%2FREADME.ipynb)
 
 Black-Box Data-efficient Policy Search for Robotics.
 
@@ -84,6 +85,7 @@ S. Lowry and H. Andreasson, <br/>
 ## Text2Action
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/Text2Action)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/text2action)
+[![binder](logo_binder.png)](https://mybinder.org/v2/gh/ICRA-2018/Text2Action/master?urlpath=lab%2Ftree%2FREADME.ipynb)
 
 Generative Adversarial Synthesis from Language to Action.
 
