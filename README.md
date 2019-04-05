@@ -10,6 +10,7 @@ Papers available at [IEEEXplore](https://ieeexplore.ieee.org/xpl/mostRecentIssue
 
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/adversarial_testing)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/adversarial-testing)
+[![binder](logo_binder.png)](https://mybinder.org/v2/gh/ICRA-2018/adversarial_testing/master?urlpath=lab%2Ftree%2FREADME.ipynb)
 
 This is a python package for testing controls for black box system in simulators.
 
