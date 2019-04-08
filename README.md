@@ -104,6 +104,17 @@ M. Mielle, M. Magnusson and A. J. Lilienthal,<br/>
 "A Method to Segment Maps from Different Modalities Using Free Space Layout MAORIS: Map of Ripples Segmentation,"<br/>
 [doi: 10.1109/ICRA.2018.8461128](https://doi.org/10.1109/ICRA.2018.8461128)
 
+## SR4RL
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/SR4RL)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/sr4rl)
+
+Symbolic Regression for Reinforcement Learning.
+
+E. Derner, J. Kubalík and R. Babuška, <br/>
+"Data-driven Construction of Symbolic Process Models for Reinforcement Learning," <br/>
+[doi: 10.1109/ICRA.2018.8461182](https://doi.org/10.1109/ICRA.2018.8461182)
+
 ## Text2Action
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/Text2Action)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/text2action)
