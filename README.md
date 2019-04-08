@@ -115,6 +115,16 @@ H. Ahn, T. Ha, Y. Choi, H. Yoo and S. Oh, <br/>
 "Text2Action: Generative Adversarial Synthesis from Language to Action," <br/>
 [doi: 10.1109/ICRA.2018.8460608](https://doi.org/10.1109/ICRA.2018.8460608)
 
+## trajectory-optimized-active-search
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/trajectory-optimized-active-search)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/trajectory-optimized-active-search)
+
+An approach for guiding robots to automatically localize and find the shapes of tumors and other stiff inclusions present in the anatomy.
+
+H. Salman et al., <br/>
+"Trajectory-Optimized Sensing for Active Search of Tissue Abnormalities in Robotic Surgery,"<br/>
+[doi: 10.1109/ICRA.2018.8460936](https://doi.org/10.1109/ICRA.2018.8460936)
+
 ## VINS-mono
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/VINS-Mono/tree/develop)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/vins-mono)
