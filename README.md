@@ -52,6 +52,17 @@ E. Palazzolo and C. Stachniss, <br/>
 "Fast Image-Based Geometric Change Detection Given a 3D Model,"<br/>
 [doi: 10.1109/ICRA.2018.8461019](https://doi.org/10.1109/ICRA.2018.8461019)
 
+## grips
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/grips)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/grips)
+
+Gradient-Informed Path Smoothing for Wheeled Mobile Robots (GRIPS).
+
+E. Heiden, L. Palmieri, S. Koenig, K. O. Arras and G. S. Sukhatme,<br/>
+"Gradient-Informed Path Smoothing for Wheeled Mobile Robots,"<br/>
+[doi: 10.1109/ICRA.2018.8460818](https://doi.org/10.1109/ICRA.2018.8460818)
+
 ## Human-Joint-Constraints-Training
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/Human-Joint-Constraints-Training)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/human-joint-constraints-training)
@@ -81,6 +92,17 @@ Spatial verification using Local Geometric Support.
 S. Lowry and H. Andreasson, <br/>
 "LOGOS: Local Geometric Support for High-Outlier Spatial Verification," <br/>
 [doi: 10.1109/ICRA.2018.8460988](https://doi.org/10.1109/ICRA.2018.8460988)
+
+## maoris
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/maoris)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/maoris)
+
+Cutting most types of maps in smaller more meaningful bits.
+
+M. Mielle, M. Magnusson and A. J. Lilienthal,<br/>
+"A Method to Segment Maps from Different Modalities Using Free Space Layout MAORIS: Map of Ripples Segmentation,"<br/>
+[doi: 10.1109/ICRA.2018.8461128](https://doi.org/10.1109/ICRA.2018.8461128)
 
 ## Text2Action
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/Text2Action)
