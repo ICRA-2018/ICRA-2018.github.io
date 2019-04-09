@@ -104,6 +104,16 @@ M. Mielle, M. Magnusson and A. J. Lilienthal,<br/>
 "A Method to Segment Maps from Different Modalities Using Free Space Layout MAORIS: Map of Ripples Segmentation,"<br/>
 [doi: 10.1109/ICRA.2018.8461128](https://doi.org/10.1109/ICRA.2018.8461128)
 
+## range_libc
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/range_libc/tree/deploy)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/range-libc)
+
+Optimized ray cast methods for 2D occupancy grids.
+
+C. H. Walsh and S. Karaman, <br/>
+"CDDT: Fast Approximate 2D Ray Casting for Accelerated Localization," <br/>
+[doi: 10.1109/ICRA.2018.8460743](https://doi.org/10.1109/ICRA.2018.8460743)
+
 ## SR4RL
 
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/SR4RL)
