@@ -119,6 +119,7 @@ S. Sharma, J. A. Ansari, J. Krishna Murthy and K. Madhava Krishna, <br/>
 
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/nanomap_ros)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/nanomap_ros)
+[![binder](logo_binder.png)](https://mybinder.org/v2/gh/ICRA-2018/nanomap_ros/develop?urlpath=lab%2Ftree%2FREADME.ipynb)
 
 Fast, Uncertainty-Aware Proximity Queries with Lazy Search of Local 3D Data.
 
