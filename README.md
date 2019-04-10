@@ -115,6 +115,17 @@ S. Sharma, J. A. Ansari, J. Krishna Murthy and K. Madhava Krishna, <br/>
 "Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking," <br/>
 [doi: 10.1109/ICRA.2018.8461018](https://doi.org/10.1109/ICRA.2018.8461018)
 
+## nanomap_ros
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/nanomap_ros)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/nanomap_ros)
+
+Fast, Uncertainty-Aware Proximity Queries with Lazy Search of Local 3D Data.
+
+P. R. Florence, J. Carter, J. Ware and R. Tedrake, <br/>
+"NanoMap: Fast, Uncertainty-Aware Proximity Queries with Lazy Search Over Local 3D Data," <br/>
+[doi: 10.1109/ICRA.2018.8463195](https://doi.org/10.1109/ICRA.2018.8463195)
+
 ## range_libc
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/range_libc/tree/deploy)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/range-libc)
@@ -124,6 +135,17 @@ Optimized ray cast methods for 2D occupancy grids.
 C. H. Walsh and S. Karaman, <br/>
 "CDDT: Fast Approximate 2D Ray Casting for Accelerated Localization," <br/>
 [doi: 10.1109/ICRA.2018.8460743](https://doi.org/10.1109/ICRA.2018.8460743)
+
+## SqueezeSeg
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/SqueezeSeg)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/squeezeseg)
+
+Convolutional neural networks for LiDAR point clout segmentation.
+
+B. Wu, A. Wan, X. Yue and K. Keutzer, <br/>
+"SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud," <br/>
+[doi: 10.1109/ICRA.2018.8462926](https://doi.org/10.1109/ICRA.2018.8462926)
 
 ## SR4RL
 
