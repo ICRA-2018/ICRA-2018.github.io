@@ -104,6 +104,17 @@ M. Mielle, M. Magnusson and A. J. Lilienthal,<br/>
 "A Method to Segment Maps from Different Modalities Using Free Space Layout MAORIS: Map of Ripples Segmentation,"<br/>
 [doi: 10.1109/ICRA.2018.8461128](https://doi.org/10.1109/ICRA.2018.8461128)
 
+## MOTBeyondPixels
+
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/MOTBeyondPixels)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/motbeyondpixels)
+
+Monocular multi-object tracking using simple and complementary 3D and 2D cues.
+
+S. Sharma, J. A. Ansari, J. Krishna Murthy and K. Madhava Krishna, <br/>
+"Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking," <br/>
+[doi: 10.1109/ICRA.2018.8461018](https://doi.org/10.1109/ICRA.2018.8461018)
+
 ## range_libc
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/range_libc/tree/deploy)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/range-libc)
