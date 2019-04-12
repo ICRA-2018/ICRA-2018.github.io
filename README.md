@@ -127,6 +127,26 @@ P. R. Florence, J. Carter, J. Ware and R. Tedrake, <br/>
 "NanoMap: Fast, Uncertainty-Aware Proximity Queries with Lazy Search Over Local 3D Data," <br/>
 [doi: 10.1109/ICRA.2018.8463195](https://doi.org/10.1109/ICRA.2018.8463195)
 
+## objectattention
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/objectattention)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/objectattention)
+
+Attending to objects for robot learning.
+
+C. Devin, P. Abbeel, T. Darrell and S. Levine, <br/>
+"Deep Object-Centric Representations for Generalizable Robot Learning," <br/>
+[doi: 10.1109/ICRA.2018.8461196](https://doi.org/10.1109/ICRA.2018.8460743)
+
+## QuadsManip
+[![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/QuadsManip)
+[![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/quadsmanip)
+
+Cooperative object transport using multiple quadrotors without communication.
+
+Z. Wang, S. Singh, M. Pavone and M. Schwager, <br/>
+"Cooperative Object Transport in 3D with Multiple Quadrotors Using No Peer Communication," <br/>
+[doi: 10.1109/ICRA.2018.8460742](https://doi.org/10.1109/ICRA.2018.8460743)
+
 ## range_libc
 [![GitHub](GitHub-Mark-32px.png)](https://github.com/ICRA-2018/range_libc/tree/deploy)
 [![DockerHub](docker.png)](https://hub.docker.com/r/icra2018/range-libc)
